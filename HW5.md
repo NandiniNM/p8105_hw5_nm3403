@@ -106,3 +106,5 @@ test_results %>%
 This figure suggests a very wide range in the rate at which homicides
 are solved – Chicago is noticeably high and, given the narrowness of the
 CI, likely is the location of many homicides.
+
+## Problem 2
